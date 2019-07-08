@@ -1,0 +1,14 @@
+.DS_Store
+*.pyc
+.vscode/
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.toc
+*.synctex.gz
+*.log
+*~
+\#*\#
+*.piskel

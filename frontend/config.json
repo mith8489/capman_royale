@@ -1,0 +1,28 @@
+{
+
+    "Screen_width":1024,
+    "Screen_height":768,
+    "fps":60,
+    "up_key":"pygame.K_UP",
+    "down_key": "pygame.K_DOWN",
+    "left_key":"pygame.K_LEFT",
+    "right_key":"pygame.K_RIGHT",
+    "menu_action_key" : "pygame.K_RETURN",
+    "input_font" : "freesansbold.ttf",
+    "input_font_size": 32,
+    "input_ip_length": 16,
+    "map_height":24,
+    "map_width":32,
+    "menu_pointer_size" : 48,
+    "menu_pointer_period" : 5,
+    "menu_pointer_amplitude": 30,
+    "menu_block_xsize" : 300,
+    "menu_block_ysize" : 100,
+    "menu_block" : "(300,100)",
+    "number_of_starsprites": 15,
+    "stars_max_speed": 7,
+    "stars_min_speed":1,
+    "lobby_item_height": 50,
+    "lobby_item_bgcolor" : "(255, 255, 255)",
+    "lobby_item_readycolor": "(0, 150, 50)"
+}
